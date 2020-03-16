@@ -60,7 +60,7 @@
 - Additional information
   - Relevant Information
     - List in chronological order other educational institutions and formal training programs in which you undertook work related to your major field of study. 
-    - If you have any academic work in progress, please describe it or any courses you anticipate taking prior to enrolling as a graduate student at UCI
+    - If you have any academic work in progress, please describe it or any courses you anticipate taking prior to enrolling as a graduate student at UCLA
     - Please list any work that you have had published.
     - Foreign Language Competency
     - Honors & Awards
