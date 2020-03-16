@@ -1,7 +1,15 @@
 # Summary
 
+## Review ##
+申请本身来说就是一个很复杂的事情
+
+### 博士项目 ###
+:ideograph_advantage: 研究能力（推荐信、出版物） > 学术成绩（成绩单、本科院校、排名等） > 个人陈述、语言能力 > GRE。
+
+### 硕士项目 ###
+:ideograph_advantage: 学术能力（成绩单、推荐信、本科院校、排名等） > 个人陈述、语言能力 > 其他经历、GRE。
+
 ## 网申系统 ##
-- 
 - Personal Background
   - Name
   - Address
@@ -20,6 +28,7 @@
     - Residency Status
     - Visa Type
 - Academic Program
+
 - Information of program
 - Academic history
 - Transcript Upload
